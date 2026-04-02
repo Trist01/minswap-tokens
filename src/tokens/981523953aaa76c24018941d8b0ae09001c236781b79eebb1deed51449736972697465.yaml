@@ -22,4 +22,4 @@ verified: true # default true, if a token violate verification policy then switc
 # the following fields are not required
 # for `number`, it's token number with no decimals. For example, if your token has a max supply of 50,000,000 tokens with 6 decimals, the value needs to be 50000000 × 10^6 = 50000000000000
 # for URL, it must also return the token number without decimals
-maxSupply: 8975318
+maxSupply: 8975318000000
